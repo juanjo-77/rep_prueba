@@ -10,7 +10,7 @@ else:
    print("entrada gratis")
    
  elif edad <= 11:
-    print("su boleta vale 5 lukas") 
+    print("su boleta vale 5 lukas")  
     
  elif edad < 59:
     print("su boleta vale 8 lukas")

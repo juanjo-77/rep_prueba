@@ -9,4 +9,4 @@ elif edad > 0:
     print("usted es menor de edad")
     
 else:
-    print("edad invalida") 
+    print("edad invalida")  

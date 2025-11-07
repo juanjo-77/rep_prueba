@@ -24,4 +24,4 @@ else:
       if total_final < 50000:
         total_final += 5000 
 
-print(f"El total a pagar es: ${total_final: }")
+print(f"El total a pagar es: ${total_final: }")  

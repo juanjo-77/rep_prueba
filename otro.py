@@ -16,7 +16,7 @@ while True:
         binaria = bin(decimal)[2:]
         print(f"el numero {decimal} en binario es {binaria}")
 
-    elif opt == "3":
+    elif opt == "3": 
         b = input("numero binario: ")
         print("decimal: ", int(b, 2))
 

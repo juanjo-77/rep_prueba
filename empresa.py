@@ -10,7 +10,7 @@ if notaTecnica and notaLogica > 5:
 if nota_final < 0:
     print("datos erroneos") 
 elif nota_final > 5:
-    print("datos erroneos")
+    print("datos erroneos") 
     
 else:
     

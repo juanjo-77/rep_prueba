@@ -12,7 +12,7 @@ if sabores.lower() == "vainilla":
 elif sabores.lower() == "chocolate": 
     precio = chocolate 
     
-else:
+else: 
     print("ese sabor no existe")
     precio = 0
     

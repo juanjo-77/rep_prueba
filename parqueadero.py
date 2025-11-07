@@ -15,4 +15,4 @@ else:
         total = cantidad * hora + (multa)
     
 
-print (f"el total a pagar es: {total:}")
+print (f"el total a pagar es: {total:}")  

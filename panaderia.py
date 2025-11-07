@@ -19,6 +19,6 @@ else:
 totalDescuento = total * (1 - descuento)
 
 if descuento > 0:
-    print(f"Se aplicó un {int(descuento*100)}% de descuento.")
+    print(f"Se aplicó un {int(descuento*100)}% de descuento.") 
 print(f"Total a pagar: ${totalDescuento:}")
-    
+      

@@ -11,6 +11,6 @@ else:
          
     elif dias <= 3:
         print("Bien, pero puedes dar más")
-        
+         
     else:
         print("¡Excelente disciplina! + gana 1 punto de energía")

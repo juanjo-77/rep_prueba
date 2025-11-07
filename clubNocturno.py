@@ -8,7 +8,7 @@ if edad < 0 or documento not in [1, 2]:
 else: 
     
     if edad >= 18 and documento == 1:
-        print("Puedes entrar")
+        print("Puedes entrar") 
     
     elif edad < 18 and documento == 1:
         print("Entrada denegada")

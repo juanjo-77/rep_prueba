@@ -10,7 +10,7 @@ else:
      
     if cupones == 1:
           total = total * 0.85
-          
+        
           if LIBRO10 == 1:
               total = total * 0.90
 

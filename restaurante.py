@@ -15,4 +15,4 @@ elif bebidas == 2:
     print(f"Total a pagar con IVA incluido: ${total_con_iva: }")
      
 else:
-    print("Opción no válida. Hasta la próxima.")
+    print("Opción no válida. Hasta la próxima.") 
