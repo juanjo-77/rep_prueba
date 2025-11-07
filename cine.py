@@ -19,4 +19,4 @@ else:
     print("su boleta le queda a 4 lukas por estar tan viejito")
     
  else:
-    print("edad invalida") 
+    print("edad invalida")  
